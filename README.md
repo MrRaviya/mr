@@ -6,9 +6,9 @@ $pkg install python
 
 $pip install --upgrade pip
 
-$git clone https://github.com/ishumdeshapriya/MR
+$git clone https://github.com/ishumdeshapriya/mr
 
-$cd MR
+$cd mr
 
 $python mr.py
 
