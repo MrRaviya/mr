@@ -1,14 +1,20 @@
 # MR
-Dialog megarun auto request tool..full ownership has errorkiller (https://github.com/errorki11er)
+
+***Dialog megarun auto request tool***
+###### full ownership has errorkiller (https://github.com/errorki11er)
 
 
-$pkg install python
 
-$pip install --upgrade pip
 
-$git clone https://github.com/ishumdeshapriya/mr
+* `pkg install python`
 
-$cd mr
+* `pip install --upgrade pip`
 
-$python mr.py
+* `pkg install git`
+
+* `git clone https://github.com/ishumdeshapriya/mr`
+
+* `cd mr`
+
+* `python mr.py`
 
