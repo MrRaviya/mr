@@ -8,6 +8,10 @@
 
 * `pkg install python`
 
+* `pkg update`
+
+* `pkg upgrade`
+
 * `pip install --upgrade pip`
 
 * `pkg install git`
